@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, i am Stasya 👋
 
-<!--
-**bersenevanasta494-eng/bersenevanasta494-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer
+🌱 Learning something new every day
+🐿️ Dota 2
+🚀 Building cool things
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- HTML / CSS
+
+- Python
+
+
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=
+bersenevanasta494-eng
+&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contact
+
+- GitHub: [@
+bersenevanasta494-eng
+](https://github.com/bersenevanasta494-eng)
+- Email: bersenevanasta494@gmail.com
+
+---
+
+> 🌲 Keep coding. Keep learning.
